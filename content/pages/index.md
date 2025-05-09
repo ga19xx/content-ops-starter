@@ -17,7 +17,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: play
+        icon: send
         iconPosition: right
         style: secondary
         elementId: ''
