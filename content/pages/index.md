@@ -14,7 +14,7 @@ sections:
       git commit, git workflows and collaboration just work.
     actions:
       - label: ACESSE AQUI ✅
-        altText: ''
+        altText: ACESSE AQUI
         url: /
         showIcon: false
         icon: shoppingBag
