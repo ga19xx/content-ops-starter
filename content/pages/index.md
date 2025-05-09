@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Parabéns amor
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: Pegue o acesso no botão abaixo
     text: >
