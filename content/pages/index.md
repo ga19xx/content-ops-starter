@@ -7,7 +7,7 @@ sections:
       text: Parabéns amor
       color: text-primary
       type: TitleBlock
-    subtitle: Pegue o acesso no botão abaixo
+    subtitle: Acessa o grupo no botão abaixo
     text: "Aqui você satisfaz todos os seus desejos amor \U0001F51E\n\n⚠️ Toda semana eu chamo alguém do grupo no particular para passar uma noite cmg com TUDO incluso \U0001F4A6\U0001F445\n"
     actions:
       - label: ACESSE AQUI ✅
