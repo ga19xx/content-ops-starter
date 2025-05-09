@@ -17,7 +17,7 @@ sections:
         icon: shoppingBag
         iconPosition: left
         style: primary
-        elementId: ''
+        elementId: Grupo Pago
         type: Button
     media:
       url: /images/@OnlyShareOfficial TELEGRAM (149).jpg
