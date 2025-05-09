@@ -15,7 +15,7 @@ sections:
     actions:
       - label: ACESSE AQUI ✅
         altText: ACESSE AQUI
-        url: /
+        url: 'https://t.me/+qsvZ2L1B78g0ZjMx'
         showIcon: false
         icon: shoppingBag
         iconPosition: left
