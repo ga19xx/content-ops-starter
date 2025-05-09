@@ -13,7 +13,7 @@ sections:
       - label: ACESSE AQUI ✅
         altText: ACESSE AQUI
         url: 'https://t.me/+qsvZ2L1B78g0ZjMx'
-        showIcon: false
+        showIcon: true
         icon: shoppingBag
         iconPosition: left
         style: primary
