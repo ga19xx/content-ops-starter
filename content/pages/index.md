@@ -13,15 +13,6 @@ sections:
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
     actions:
-      - type: Button
-        label: ''
-        altText: ''
-        url: ''
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
       - label: ACESSE AQUI ✅
         altText: ACESSE AQUI
         url: 'https://t.me/+qsvZ2L1B78g0ZjMx'
