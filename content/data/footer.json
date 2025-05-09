@@ -1,13 +1,6 @@
 {
     "text": "A description of your brand",
-    "socialLinks": [
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "",
     "colors": "bg-dark-fg-light",
