@@ -22,15 +22,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: ''
-        altText: ''
-        url: ''
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/@OnlyShareOfficial TELEGRAM (149).jpg
       altText: ''
