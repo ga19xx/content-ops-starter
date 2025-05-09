@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/@OnlyShareOfficial TELEGRAM (149).jpg
-      altText: Unblock your team boost your time to production preview
+      altText: ''
       elementId: ''
       type: ImageBlock
     badge:
