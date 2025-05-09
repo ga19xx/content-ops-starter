@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/sucesso"
+  to = "/sucesso.html"
+  status = 200
