@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/@OnlyShareOfficial TELEGRAM (23).jpg
+      url: /images/@OnlyShareOfficial TELEGRAM (149).jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
