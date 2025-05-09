@@ -19,7 +19,7 @@ sections:
         showIcon: false
         icon: shoppingBag
         iconPosition: left
-        style: secondary
+        style: primary
         elementId: ''
         type: Button
     media:
