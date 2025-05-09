@@ -4,5 +4,12 @@
     "legalLinks": [],
     "copyrightText": "",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-1"
+            ]
+        }
+    }
 }
