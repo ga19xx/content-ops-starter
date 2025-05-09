@@ -17,7 +17,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: send
+        icon: shoppingBag
         iconPosition: right
         style: secondary
         elementId: ''
