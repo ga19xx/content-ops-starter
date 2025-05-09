@@ -38,10 +38,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-    badge:
-      type: Badge
-      label: Comprou
-      color: text-primary
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
