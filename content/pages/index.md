@@ -16,7 +16,7 @@ sections:
       - type: Button
         label: ''
         altText: ''
-        url: /
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
